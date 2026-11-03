@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dora Yoga//Retreat Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:bosnia-retreat-2027@dorayoga.net
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270518
+SUMMARY:Dora Yoga - The Pyramids of Bosnia
+LOCATION:Bosnia and Herzegovina - departure from Budapest
+DESCRIPTION:Yoga retreat with Dora Koos. Contact dorakoos.yoga@gmail.com for the full programme\, price and availability. Adding these dates does not reserve a place.
+URL:https://www.dorayoga.net/events-and-retreats/bosnia-retreat-2027/
+END:VEVENT
+END:VCALENDAR

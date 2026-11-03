@@ -1,0 +1,160 @@
+{
+  "title": "A new visual world for D\u00f3ra Yoga",
+  "question": "Bolder directions, as requested: three complete visual systems translated into D\u00f3ra\u2019s yoga, sound and community practice.",
+  "options": [
+    {
+      "id": "frequency",
+      "label": "The Frequency Field",
+      "kicker": "THE LEAD",
+      "lineage": "One type scale, a precise rail, line-form states",
+      "thesis": "Sound made visible: a charcoal field, one precise navigation rail, and documentary images in graphite.",
+      "palette": [
+        "#191b1c",
+        "#e9e5da"
+      ],
+      "materials": [
+        "Charcoal continuum",
+        "bone lettering",
+        "spectral hairlines"
+      ],
+      "viewport": "A full-height yoga photograph sits above an off-centre rail; classes and sound sessions open as large plates from that line.",
+      "risk": "A beautiful but deliberately technical visual language; the teacher and real photographs must make it welcoming.",
+      "comp": ".impeccable/mocks/decision/frequency.png",
+      "hero": "https://impeccable.style/worlds/cards/operate-c-emission-line-rail-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/operate-c-emission-line-rail.webp",
+      "verdict": "competitive",
+      "case": "The real photograph and clear class action keep the yoga offer immediate."
+    },
+    {
+      "id": "constructivist",
+      "label": "The Movement Manifesto",
+      "kicker": "STRONG ALTERNATE",
+      "lineage": "Condensed type, photographic montage, one strong diagonal",
+      "thesis": "A bold contemporary manifesto for movement: large type, decisive red forms and real yoga photography.",
+      "palette": [
+        "#f2e9d6",
+        "#d52c24"
+      ],
+      "materials": [
+        "Newsprint cream",
+        "black ink",
+        "action red"
+      ],
+      "viewport": "Black condensed lettering and a sunlit yoga photograph cut across a cream field; a red directional form leads directly to the class calendar.",
+      "risk": "The energetic graphic language is an intentional departure from conventional gentle wellness branding.",
+      "comp": ".impeccable/mocks/decision/constructivist.png",
+      "hero": "https://impeccable.style/worlds/cards/design-canon-constructivist-agit-train-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/design-canon-constructivist-agit-train.webp",
+      "verdict": "wins",
+      "case": "The real photograph and clear class action keep the yoga offer immediate."
+    },
+    {
+      "id": "afterglow",
+      "label": "The Afterglow Garden",
+      "kicker": "STRONG ALTERNATE",
+      "lineage": "Thin luminous type, branching paths, proximity light",
+      "thesis": "An immersive evening garden for breath, sound and inner exploration, with living light responding to your attention.",
+      "palette": [
+        "#131521",
+        "#bd9ce5"
+      ],
+      "materials": [
+        "Midnight loam",
+        "lilac and cyan illumination"
+      ],
+      "viewport": "A dark atmospheric light field surrounds a real photograph of D\u00f3ra; bright, quiet lettering leads to yoga, sound and community paths.",
+      "risk": "The immersive night atmosphere suits the sound and circle work more naturally than daytime yoga.",
+      "comp": ".impeccable/mocks/decision/afterglow.png",
+      "hero": "https://impeccable.style/worlds/cards/dream-surreal-impossible-worlds-luminescent-alien-understory-hero.webp",
+      "board": "https://impeccable.style/worlds/cards/dream-surreal-impossible-worlds-luminescent-alien-understory.webp",
+      "verdict": "competitive",
+      "case": "The real photograph and clear class action keep the yoga offer immediate."
+    },
+    {
+      "id": "split-flap",
+      "label": "The Class Departure Board",
+      "verdict": "declined",
+      "thesis": "Every class becomes a destination on a live departure board.",
+      "palette": [
+        "#151515",
+        "#f0ede3",
+        "#c98b3a"
+      ],
+      "materials": [
+        "Matte flap letters",
+        "Ruled timetable"
+      ],
+      "viewport": "A full-screen class and retreat departure board.",
+      "risk": "Transit language feels impersonal.",
+      "case": "The schedule is clear, but a transport board obscures the teacher and personal nature of the practice.",
+      "kept": "Keep schedules rigorously aligned and readable."
+    },
+    {
+      "id": "industrial",
+      "label": "The Practice Label",
+      "verdict": "declined",
+      "thesis": "Black, white and safety-orange literal labels turn every practice into a graphic object.",
+      "palette": [
+        "#fafafa",
+        "#171717",
+        "#ed6c2a"
+      ],
+      "materials": [
+        "Industrial labels",
+        "Orange selection tags"
+      ],
+      "viewport": "Large quoted practice labels and stark monochrome photographs.",
+      "risk": "The industrial mood conflicts with the intimacy of private experiences.",
+      "case": "It identifies movement clearly but makes the circle and sound work feel like merchandise.",
+      "kept": "Name every action literally."
+    },
+    {
+      "id": "broadcast",
+      "label": "The Movement Broadcast",
+      "verdict": "declined",
+      "thesis": "A high-contrast red broadcast sequence introduces each practice.",
+      "palette": [
+        "#d72c2c",
+        "#f5f5f0",
+        "#2d2d2d"
+      ],
+      "materials": [
+        "Title cards",
+        "Hard cuts"
+      ],
+      "viewport": "Full-screen title, location, and instruction sequence.",
+      "risk": "Emergency associations create needless urgency.",
+      "case": "The alert grammar distracts from an unhurried personal practice.",
+      "kept": "Use an unmistakable booking action."
+    }
+  ],
+  "reroll": {
+    "registers": [
+      "safer",
+      "bolder"
+    ]
+  },
+  "buildPath": {
+    "value": "comp",
+    "toggle": true
+  },
+  "canon": true,
+  "steer": true,
+  "canonCard": {
+    "label": "The familiar wellness studio",
+    "thesis": "A conventional, carefully executed yoga website.",
+    "palette": [
+      "#e7ecdf",
+      "#435642",
+      "#faf9f4"
+    ],
+    "materials": [
+      "Sage green",
+      "Soft serif type",
+      "Balanced photography"
+    ],
+    "viewport": "A centered introduction over a wide photograph, followed by service cards and a schedule.",
+    "risk": "Comfortable and clear, but less distinctive from nearby studios.",
+    "comp": ".impeccable/mocks/decision/canon.png"
+  }
+}

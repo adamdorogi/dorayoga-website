@@ -1,0 +1,5 @@
+import Link from 'next/link';
+import { MapPin } from 'lucide-react';
+import { classes } from '@/lib/content';
+import { ActionLink, Arrow } from './ui';
+export function Schedule({compact=false}:{compact?:boolean}){return <section className={`schedule-section ${compact?'compact':''}`}><div className="wrap schedule-layout"><div className="schedule-intro"><h2>A little ritual,<br/><em>every week.</em></h2><p>Roll out your mat. Take a breath.<br/>Make this time your own.</p><div className="studio-line"><MapPin size={17} aria-hidden="true"/><span>Healing Home · Budapest XIII</span></div><ActionLink href="/yoga-classes-and-events-budapest/" light>View the class calendar</ActionLink></div><div className="schedule-rows">{classes.map(c=><Link className="schedule-row" key={c.id} href={`/yoga-styles/#${c.id}`}><span className="schedule-day">{c.day}<span>{c.time}</span></span><span className="schedule-class">{c.title}<span>{c.subtitle??c.level}</span></span><Arrow size={23}/></Link>)}<p className="schedule-note">Your weekly rhythm. Confirm dates, venue, prices and availability in the live booking calendar.</p></div></div></section>}

@@ -1,0 +1,216 @@
+{
+  "title": "A new visual world for D\u00f3ra Yoga",
+  "question": "A complete redesign grounded in D\u00f3ra\u2019s real practice. Choose a direction, or let me continue with The Open-Air Atelier.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Open-Air Atelier",
+      "kicker": "THE DIRECTION",
+      "lineage": "Art-school movement ateliers and contemporary retreat journals",
+      "thesis": "A personal invitation into movement, sound, and community, told through D\u00f3ra\u2019s real photographs.",
+      "palette": [
+        "#f5f1e9",
+        "#39263c",
+        "#e4d9e7",
+        "#c6a45d"
+      ],
+      "materials": [
+        "Warm ivory",
+        "Large editorial lettering",
+        "Documentary photographs"
+      ],
+      "viewport": "A generous split composition: an expressive plum headline and booking action opposite a sunlit photograph of practice by the Danube.",
+      "risk": "The photographs are intentionally candid, so the typography and spacing must carry the refinement.",
+      "raised": [
+        {
+          "from": "Mezzotint",
+          "raise": "Commit to rich plum contrast across whole sections."
+        },
+        {
+          "from": "Single-hue brand",
+          "raise": "Repeat one distinctive plum consistently in type and controls."
+        },
+        {
+          "from": "Darkroom",
+          "raise": "Make browsing feel deliberate through a single image reveal."
+        },
+        {
+          "from": "Algorave",
+          "raise": "Let the practice selector genuinely change the content."
+        },
+        {
+          "from": "Sneaker archive",
+          "raise": "Give every offering a precise, scannable label."
+        },
+        {
+          "from": "Layered papercut",
+          "raise": "Use deliberate image overlap instead of generic card grids."
+        }
+      ],
+      "comp": ".impeccable/mocks/decision/assigned.png"
+    },
+    {
+      "id": "model-pick",
+      "label": "The Movement Studio",
+      "kicker": "IMPECCABLE\u2019S PICK",
+      "lineage": "Contemporary dance studio posters",
+      "thesis": "Confident lilac fields and bold type put the physical practice first.",
+      "palette": [
+        "#d8c6e8",
+        "#292238",
+        "#efeadf"
+      ],
+      "materials": [
+        "Graphic blocks",
+        "Bold sans lettering",
+        "Large class photographs"
+      ],
+      "viewport": "A wide class photograph under a large typographic title, with a clearly visible weekly timetable.",
+      "risk": "More familiar to a contemporary fitness studio and less intimate for circles and sound work.",
+      "comp": ".impeccable/mocks/decision/pick.png"
+    },
+    {
+      "id": "ink-pigment-printmaking-mezzotint-velvet-night",
+      "label": "Mezzotint Night",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "A nocturnal sound sanctuary with silver lettering.",
+      "palette": [
+        "#181316",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "A nocturnal sound sanctuary with silver lettering.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "Its night ritual obscures the everyday yoga offer and feels distant to first-time visitors.",
+      "kept": "Strong whole-section contrast.",
+      "hero": "https://impeccable.style/worlds/cards/ink-pigment-printmaking-mezzotint-velvet-night-hero.webp"
+    },
+    {
+      "id": "brand-identity-canon-single-hue-doll-program",
+      "label": "One-Hue Program",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "A vivid magenta identity carrying every offering.",
+      "palette": [
+        "#c62d78",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "A vivid magenta identity carrying every offering.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "The product-box energy is less personal and makes the different practices harder to distinguish.",
+      "kept": "One unmistakable brand color.",
+      "hero": "https://impeccable.style/worlds/cards/brand-identity-canon-single-hue-doll-program-hero.webp"
+    },
+    {
+      "id": "signals-instruments-darkroom-safelight-bay",
+      "label": "Darkroom Ritual",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "Practices unfold as a sequence of photographic development stations.",
+      "palette": [
+        "#a96126",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "Practices unfold as a sequence of photographic development stations.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "The photographic process adds unfamiliar work before visitors can select a class.",
+      "kept": "Deliberate pacing.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-darkroom-safelight-bay-hero.webp"
+    },
+    {
+      "id": "medium-native-algorave-source-floor",
+      "label": "The Sound Floor",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "A live rhythmic sound interface leading to movement sessions.",
+      "palette": [
+        "#b2e542",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "A live rhythmic sound interface leading to movement sessions.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "The performance-club association overwhelms the quiet practice and obscures booking.",
+      "kept": "Meaningful state changes.",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-algorave-source-floor-hero.webp"
+    },
+    {
+      "id": "textiles-weave-drape-fashion-sneaker-box-stacks",
+      "label": "The Practice Archive",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "A stack of precisely indexed class and experience labels.",
+      "palette": [
+        "#ce702d",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "A stack of precisely indexed class and experience labels.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "An object catalog is less welcoming and hides the teacher\u2019s human presence.",
+      "kept": "Scannable offering labels.",
+      "hero": "https://impeccable.style/worlds/cards/textiles-weave-drape-fashion-sneaker-box-stacks-hero.webp"
+    },
+    {
+      "id": "craft-making-lowicz-layered-papercut",
+      "label": "Layered Circle",
+      "verdict": "declined",
+      "lineage": "Impeccable catalog challenger",
+      "thesis": "Colorful folded paper layers build a communal circle.",
+      "palette": [
+        "#d23c36",
+        "#f2ecdf"
+      ],
+      "materials": [
+        "A fully committed visual system"
+      ],
+      "viewport": "Colorful folded paper layers build a communal circle.",
+      "risk": "The metaphor competes with the practical information.",
+      "case": "The craft metaphor is unfamiliar to this business and makes a full service site harder to navigate.",
+      "kept": "Purposeful layering.",
+      "hero": "https://impeccable.style/worlds/cards/craft-making-lowicz-layered-papercut-hero.webp"
+    }
+  ],
+  "reroll": {
+    "registers": [
+      "safer",
+      "bolder"
+    ]
+  },
+  "buildPath": {
+    "value": "comp",
+    "toggle": true
+  },
+  "canon": true,
+  "steer": true,
+  "canonCard": {
+    "label": "The familiar wellness studio",
+    "thesis": "A conventional, carefully executed yoga website.",
+    "palette": [
+      "#e7ecdf",
+      "#435642",
+      "#faf9f4"
+    ],
+    "materials": [
+      "Sage green",
+      "Soft serif type",
+      "Balanced photography"
+    ],
+    "viewport": "A centered introduction over a wide photograph, followed by service cards and a schedule.",
+    "risk": "Comfortable and clear, but less distinctive from nearby studios.",
+    "comp": ".impeccable/mocks/decision/canon.png"
+  }
+}
