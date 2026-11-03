@@ -82,7 +82,7 @@ export const events: RetreatEvent[] = [
 
 export const faqs = [
  {q:'I’m new to yoga. Can I join?',a:'Yes. Tuesday’s Vinyasa flow is a beginner–intermediate practice, with variations and guidance. If you’re unsure where to begin, message Dóra and tell her a little about your experience. A private session is another way to start at your own pace.'},
- {q:'Are the classes in English?',a:'The website and regular class information are in English. Dóra speaks English and Hungarian, and some events are available in both. Check the individual event details or get in touch about language.'},
+ {q:'Are the classes in English or Hungarian?',a:'Classes are available in English or Hungarian. Check the individual session details or get in touch with Dóra to confirm the language before booking.'},
  {q:'Where do we practise?',a:'Regular indoor sessions take place at Healing Home, Pozsonyi út 54, 1137 Budapest. From late May to early October, Tuesday classes move to Margaret Island for the sunset. Always confirm the venue in the live booking calendar.'},
  {q:'How do I book a place?',a:'Use the class calendar to open Dóra’s Gymcatch booking page, where you can see confirmed dates, prices and availability. Private experiences and first-time women’s circle visits begin with a message to Dóra.'},
  {q:'What should I bring?',a:'Wear comfortable clothes that let you move and bring water. For outdoor sessions, bring a mat or blanket and a warm layer for the closing relaxation. Check your booking information for any session-specific guidance.'},
